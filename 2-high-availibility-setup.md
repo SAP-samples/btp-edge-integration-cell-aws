@@ -56,15 +56,15 @@ The deployment process consists of two primary stages:
 
 2. **SAP Edge Integration Cell Setup**
 
-   - [Activate Edge Integration Cell on SAP Integration Suite](/sap/high-availability-setup/step1-activate-edge-integration-cell.md)
+   - [Activate Edge Integration Cell on SAP Integration Suite](/sap/high-availability-mode-setup/step1-activate-edge-integration-cell.md)
 
      Enable the Edge Integration Cell service within your SAP Integration Suite, preparing it for deployment.
 
-   - [Add Edge Node and Bootstrap Amazon EKS Cluster](/sap/high-availability-setup/step2-add-edge-node.md)
+   - [Add Edge Node and Bootstrap Amazon EKS Cluster](/sap/high-availability-mode-setup/step2-add-edge-node.md)
 
      Register your Kubernetes cluster as an edge node within the SAP system and bootstrap the necessary configurations.
 
-   - [Deploy Edge Integration Cell Solution](/sap/high-availability-setup/step3-deploy-edge-integration-cell-solution.md)
+   - [Deploy Edge Integration Cell Solution](/sap/high-availability-mode-setup/step3-deploy-edge-integration-cell-solution.md)
 
      Deploy the SAP Edge Integration Cell solution on your edge node, completing the integration between your AWS infrastructure and SAP Integration Suite.
 
