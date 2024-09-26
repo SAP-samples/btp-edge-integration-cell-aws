@@ -301,5 +301,5 @@ Your Amazon EKS cluster is now set up with three node groups. You could go ahead
 
 ## Up Next
 
-[**🔗 Quick setup: Configure storage ➡**](/aws/high-availability-setup/step3-configure-storage-class.md) <br/>
-[**🔗 HA setup: Configure storage ➡**](/aws/high-availability-setup/step3-configure-storage-class.md)
+[**🔗 Quick setup: Configure storage**](/aws/high-availability-setup/step3-configure-storage-class.md) <br/>
+[**🔗 HA setup: Configure storage**](/aws/high-availability-setup/step3-configure-storage-class.md)

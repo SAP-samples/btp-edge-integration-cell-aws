@@ -252,4 +252,4 @@ Please keep below credentials / files / data handy, we will need those informati
 
 ## Up Next
 
-[**🔗 HA setup: Activate EIC ➡**](/sap/high-availability-mode-setup/step1-activate-edge-integration-cell.md)
+[**🔗 HA setup: Activate EIC**](/sap/high-availability-mode-setup/step1-activate-edge-integration-cell.md)

@@ -211,4 +211,4 @@ Please keep below credentials / files / data handy, we will need those informati
 
 ## Up Next
 
-[**🔗 HA setup: Configure Redis ➡**](/aws/high-availability-setup/step7-configure-redis.md)
+[**🔗 HA setup: Configure Redis**](/aws/high-availability-setup/step7-configure-redis.md)

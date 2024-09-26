@@ -157,4 +157,4 @@ By completing this guide, you have successfully configured a Network Load Balanc
 
 ## Up Next
 
-[**🔗 HA setup: Configure key pair ➡**](/aws/high-availability-setup/step5-configure-domain-name-key-pair.md)
+[**🔗 HA setup: Configure key pair**](/aws/high-availability-setup/step5-configure-domain-name-key-pair.md)

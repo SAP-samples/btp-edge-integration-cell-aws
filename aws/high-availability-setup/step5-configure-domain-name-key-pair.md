@@ -127,5 +127,5 @@ Please keep below credentials / files / data handy, we will need those informati
 
 ## Up Next
 
-[**🔗 Quick setup: Activate EIC ➡**](/sap/high-availability-mode-setup/step1-activate-edge-integration-cell.md) <br/>
-[**🔗 HA setup: Configure RDS ➡**](/aws/high-availability-setup/step6-configure-rds.md)
+[**🔗 Quick setup: Activate EIC**](/sap/high-availability-mode-setup/step1-activate-edge-integration-cell.md) <br/>
+[**🔗 HA setup: Configure RDS**](/aws/high-availability-setup/step6-configure-rds.md)

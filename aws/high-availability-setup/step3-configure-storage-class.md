@@ -161,7 +161,7 @@ Before you begin, ensure you have the following:
 ## \*\*Up Next
 
 If you are following the **Quick Setup** guide, you may proceed to the next step to create a key pair. EFS is optional for quick setup. <br/>
-[**🔗 Quick setup: Configure key pair ➡**](/aws/high-availability-setup/step5-configure-domain-name-key-pair.md)
+[**🔗 Quick setup: Configure key pair**](/aws/high-availability-setup/step5-configure-domain-name-key-pair.md)
 
 ## Step 4. Create an IAM role for Amazon EFS CSI driver
 
@@ -316,5 +316,5 @@ Your Amazon EKS cluster is now set up Amazon EBS and Amazon EFS type storage cla
 
 ## Up Next
 
-[**🔗 Quick setup: Configure key pair ➡**](/aws/high-availability-setup/step5-configure-domain-name-key-pair.md) <br/>
-[**🔗 HA setup: Configure load balancer ➡**](/aws/high-availability-setup/step4-configure-nlb-and-host-name.md)
+[**🔗 Quick setup: Configure key pair**](/aws/high-availability-setup/step5-configure-domain-name-key-pair.md) <br/>
+[**🔗 HA setup: Configure load balancer**](/aws/high-availability-setup/step4-configure-nlb-and-host-name.md)

@@ -70,7 +70,10 @@ In this instruction, we will walk you through the steps of deploying the Edge In
 
 4. In the **Edge Integration Cell Services** step, do the following, then click **Next Step**.
 
-   - **❗️For Quick Setup, keep everything to default and click _Next Step_**.
+   #### **Important❗️**:
+
+   - **For Quick Setup, keep everything to default and click _Next Step_**.
+     <br/><br/><br/>
    - **Properties**
 
      - Check **Enable Multi AZ Support**.

@@ -89,7 +89,7 @@ In this instruction, we will walk you through the steps of adding Edge Node into
 ## \*\*Up Next
 
 If you are following **Quick Setup** guide, you may skip monitoring and logging configuration and proceed to creating an edge node. <br/>
-[**🔗 Quick setup: Add edge node in ELM UI ➡**](/sap/high-availability-mode-setup/step2-add-edge-node.md#step-5-add-edge-node-in-the-sap-edge-lifecycle-management-ui) <br/>
+[**🔗 Quick setup: Add edge node in ELM UI**](/sap/high-availability-mode-setup/step2-add-edge-node.md#step-5-add-edge-node-in-the-sap-edge-lifecycle-management-ui) <br/>
 
 ## Step 4. Configure SSO for Logging and Monitoring Group for SAP Edge Integration Cell
 
@@ -286,5 +286,5 @@ After running the Edge Lifecycle Management Bridge successfully, you have accomp
 
 ## Up Next
 
-[**🔗 Quick setup: Deploy EIC ➡**](/sap/high-availability-mode-setup/step3-deploy-edge-integration-cell-solution.md) <br/>
-[**🔗 HA setup: Deploy EIC ➡**](/sap/high-availability-mode-setup/step3-deploy-edge-integration-cell-solution.md)
+[**🔗 Quick setup: Deploy EIC**](/sap/high-availability-mode-setup/step3-deploy-edge-integration-cell-solution.md) <br/>
+[**🔗 HA setup: Deploy EIC**](/sap/high-availability-mode-setup/step3-deploy-edge-integration-cell-solution.md)

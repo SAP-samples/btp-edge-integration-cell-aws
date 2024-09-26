@@ -33,5 +33,5 @@ Before setting up your resources on AWS, ensure you have completed the following
 
 ## Up Next
 
-[**🔗 Quick setup: Home ➡**](../../1-quick-setup.md) <br/>
-[**🔗 HA setup: Home ➡**](../../2-high-availibility-setup.md)
+[**🔗 Quick setup: Home**](../../1-quick-setup.md) <br/>
+[**🔗 HA setup: Home**](../../2-high-availibility-setup.md)

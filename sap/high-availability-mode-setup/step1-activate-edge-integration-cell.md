@@ -68,5 +68,5 @@ Now you have successfully activate the SAP Edge Integration Cell runtime in your
 
 ## Up Next
 
-[**🔗 Quick setup: Add edge node ➡**](/sap/high-availability-mode-setup/step2-add-edge-node.md) <br/>
-[**🔗 HA setup: Add edge node ➡**](/sap/high-availability-mode-setup/step2-add-edge-node.md)
+[**🔗 Quick setup: Add edge node**](/sap/high-availability-mode-setup/step2-add-edge-node.md) <br/>
+[**🔗 HA setup: Add edge node**](/sap/high-availability-mode-setup/step2-add-edge-node.md)

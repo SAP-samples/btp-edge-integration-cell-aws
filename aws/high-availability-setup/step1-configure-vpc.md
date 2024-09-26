@@ -75,5 +75,5 @@ For more information, refer to the [AWS VPC documentation](https://docs.aws.amaz
 
 ### Up Next
 
-[**🔗 Quick setup: Configure EKS ➡**](/aws/high-availability-setup/step2-configure-eks.md) <br/>
-[**🔗 HA setup: Configure EKS ➡**](/aws/high-availability-setup/step2-configure-eks.md)
+[**🔗 Quick setup: Configure EKS**](/aws/high-availability-setup/step2-configure-eks.md) <br/>
+[**🔗 HA setup: Configure EKS**](/aws/high-availability-setup/step2-configure-eks.md)
