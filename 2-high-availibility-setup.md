@@ -1,6 +1,6 @@
 ## Deploy SAP Edge Integration Cell on AWS - High Availability Setup
 
-![Alt Text](/assets/sap/ha-mode/sap-edge-integration-cell-aws.png)
+![Alt Text](/assets/sap/ha-mode/sap-edge-integration-cell-aws-ha.png)
 
 To successfully deploy SAP Edge Integration Cell on AWS, you'll need to complete a series of steps to configure the necessary infrastructure on AWS and integrate it with your SAP Integration Suite. This guide will walk you through each step, ensuring that your deployment is production-ready, secure, and scalable.
 

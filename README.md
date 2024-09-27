@@ -6,7 +6,7 @@ SAP Edge Integration Cell is a hybrid integration runtime offered as part of SAP
 
 This repository provides comprehensive instructions for deploying SAP Edge Integration Cell on Amazon Web Services (AWS). By following the guidelines provided, you can configure the necessary AWS resources and deploy SAP Edge Integration Cell.
 
-![EIC Architecture HA](/assets/sap/ha-mode/sap-edge-integration-cell-aws.png)
+![EIC Architecture HA](/assets/sap/ha-mode/sap-edge-integration-cell-aws-ha.png)
 
 For more information on Edge Integration Cell, refer to [SAP Help page](https://help.sap.com/docs/integration-suite/sap-integration-suite/what-is-sap-integration-suite-edge-integration-cell).
 
