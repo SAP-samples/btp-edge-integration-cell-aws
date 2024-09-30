@@ -1,5 +1,7 @@
 # Deploy SAP Integration Suite - Edge Integration Cell on Amazon Web Services
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/btp-edge-integration-cell-aws)](https://api.reuse.software/info/github.com/SAP-samples/btp-edge-integration-cell-aws)
+
 ## Description
 
 SAP Edge Integration Cell is a hybrid integration runtime offered as part of SAP Integration Suite, which enables you to manage APIs and run integration scenarios within your private landscape.
