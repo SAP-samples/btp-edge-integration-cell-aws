@@ -2,6 +2,9 @@
 
 ![Alt Text](/assets/sap/ha-mode/sap-edge-integration-cell-aws-ha.png)
 
+> **⚠️ Disclaimer:** 
+> The networking setup, database, and datastore configuration illustrated in this repository are currently intended as a starting point for developers. Please adhere to your organization's specific guidelines on security and network configuration. More detailed guidelines and an enhanced, secure architecture are being developed and will be made available soon.
+
 To successfully deploy SAP Edge Integration Cell on AWS, you'll need to complete a series of steps to configure the necessary infrastructure on AWS and integrate it with your SAP Integration Suite. This guide will walk you through each step, ensuring that your deployment is production-ready, secure, and scalable.
 
 **Overview:**

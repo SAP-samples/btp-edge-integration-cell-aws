@@ -2,6 +2,9 @@
 
 ![Alt Text](/assets/sap/qs-mode/sap-edge-integration-cell-aws-qs.png)
 
+> **⚠️ Disclaimer:** 
+> The networking setup, database, and datastore configuration illustrated in this repository are currently intended as a starting point for developers. Please adhere to your organization's specific guidelines on security and network configuration. More detailed guidelines and an enhanced, secure architecture are being developed and will be made available soon.
+
 Quick setup mode gives easy-to-follow instructions for quickly deploying Edge Integration Cell on AWS. It includes a series of steps that are a simplified subset of our [high availability setup guide](/2-high-availibility-setup.md), providing a more cost-effective and faster way to deploy Edge Integration Cell to a secure AWS EKS environment.
 
 To successfully deploy SAP Edge Integration Cell on AWS, you'll need to complete a series of steps to configure the necessary infrastructure on AWS and integrate it with your SAP Integration Suite. This guide will walk you through each step for a simplified setup. You may follow the steps that are marked **Required** for a simplest setup.

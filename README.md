@@ -62,6 +62,9 @@ For detailed sizing guidelines, please refer to [Sizing Guide for Edge Integrati
 
 ## Deploy SAP Edge Integration Cell on AWS
 
+> **⚠️ Disclaimer:** 
+> The networking setup, database, and datastore configuration illustrated in this repository are currently intended as a starting point for developers. Please adhere to your organization's specific guidelines on security and network configuration. More detailed guidelines and an enhanced, secure architecture are being developed and will be made available soon.
+
 Ready to get started? Follow the steps for either a quick setup or a high availability setup below.
 
 [**🔗 Quick Setup: Simplified steps to deploy EIC on AWS**](/1-quick-setup.md)
